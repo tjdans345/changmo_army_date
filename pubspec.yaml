@@ -62,18 +62,13 @@ flutter:
 
   # 폰트 추가
   fonts:
-    - family: parisienne
+    - family: dongle
       fonts:
-        - asset: asset/font/Parisienne-Regular.ttf
-
-    - family: sunflower
-      fonts:
-        - asset: asset/font/sunflower-Light.ttf
-        - asset: asset/font/sunflower-Medium.ttf
+        - asset: asset/font/Dongle-Regular.ttf
+        - asset: asset/font/Dongle-Light.ttf
           weight: 500
-        - asset: asset/font/sunflower-Bold.ttf
+        - asset: asset/font/Dongle-Bold.ttf
           weight: 700
-
 
   # To add assets to your application, add an assets section, like this:
   # assets:
